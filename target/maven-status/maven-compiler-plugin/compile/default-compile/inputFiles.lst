@@ -1,8 +1,0 @@
-/Users/murk/IdeaProjects/datavault-flink-task/src/main/java/com/datavault/flink/cli/SqlCommandParser.java
-/Users/murk/IdeaProjects/datavault-flink-task/src/main/java/com/datavault/flink/SqlSubmitCmd.java
-/Users/murk/IdeaProjects/datavault-flink-task/src/main/java/com/datavault/flink/cli/CliOptions.java
-/Users/murk/IdeaProjects/datavault-flink-task/src/main/java/com/datavault/flink/tasks/ExecSqlCmd.java
-/Users/murk/IdeaProjects/datavault-flink-task/src/main/java/com/datavault/flink/udf/TruncateDateToHour.java
-/Users/murk/IdeaProjects/datavault-flink-task/src/main/java/com/datavault/flink/tasks/ReportSqlJava.java
-/Users/murk/IdeaProjects/datavault-flink-task/src/main/java/com/datavault/flink/tasks/SpendReport.java
-/Users/murk/IdeaProjects/datavault-flink-task/src/main/java/com/datavault/flink/cli/CliOptionsParser.java
